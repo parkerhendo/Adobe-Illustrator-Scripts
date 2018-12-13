@@ -89,4 +89,5 @@ function openAndExpand() {
   }
 }
 
+// RUN SCRIPT
 openAndExpand();
